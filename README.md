@@ -1,7 +1,7 @@
 # William Steinley
 
 Forester and GIS analyst in Gold Run, California. M.S. Forestry (Stephen F. Austin State University, 2024).
-Timber inventory, LiDAR and terrain analysis, harvest-unit mapping and post-fire assessment on National Forest projects.
+Timber inventory, LiDAR and terrain analysis, and harvest-unit mapping on National Forest projects.
 
 **Portfolio and resume:** https://woodsy-will.github.io/
 
