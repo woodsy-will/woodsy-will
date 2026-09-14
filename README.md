@@ -11,10 +11,10 @@ Timber inventory, LiDAR and terrain analysis, harvest-unit mapping and post-fire
   My own rebuild on public data only. USGS 3DEP LiDAR terrain and canopy products, 24 demonstration
   harvest units, a cable-yarding feasibility screen, a 25-sheet 11x17 map series (print and Avenza GeoPDF)
   and field-data QA review sheets from a simulated cruise. Deliverables are attached to the
-  [v1.0 release](https://github.com/woodsy-will/plumas-lidar-harvest-planning/releases/tag/v1.0).
+  [v1.1 release](https://github.com/woodsy-will/plumas-lidar-harvest-planning/releases/tag/v1.1).
 - **[Forest Inventory Analyzer](https://github.com/woodsy-will/forest-inventory-analyzer-rust)** (Rust)
   Command-line and web tool for cruise data. Reads CSV, JSON and Excel; writes stand statistics and growth projections.
-  Installers for Windows, macOS and Linux are on the
+  A Windows installer and macOS and Linux binaries are on the
   [v0.2.0 release](https://github.com/woodsy-will/forest-inventory-analyzer-rust/releases/tag/v0.2.0).
 
 ## Tools
